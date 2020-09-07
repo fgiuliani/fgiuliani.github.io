@@ -14,3 +14,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           jira-prefix: "ABC"
+
